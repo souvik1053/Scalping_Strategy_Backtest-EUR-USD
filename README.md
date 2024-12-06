@@ -1,0 +1,1 @@
+# Scalping_Strategy_Backtest-EUR-USD-
